@@ -1,0 +1,3 @@
+git branch -> coi các nhánh ở local
+git checkout ten-nhanh -> lệnh checkout sang nhánh khác
+git checkout -b ten-nhanh -> lệnh tạo nhánh mới và checkout sang nhánh đó
